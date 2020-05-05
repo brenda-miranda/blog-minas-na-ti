@@ -7,6 +7,6 @@ Este é o meu terceiro projeto desenvolvido com o objetivo de colocar em prátic
 
 ## Screenshots do site:
 
-![](screenshots/img-1.png)
-![](screenshots/img-2.png)
-![](screenshots/img-3.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
