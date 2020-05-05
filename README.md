@@ -5,7 +5,7 @@ Este é o meu terceiro projeto desenvolvido com o objetivo de colocar em prátic
 
 Através dos repositórios está sendo possível acompanhar a minha evolução no aprendizado.
 
-### ~ Para este projeto, eu aprendi como atualizar: 
+### ~ Para este projeto, eu aprendi como utilizar: 
 * Seletores
 * Formatação de Links
 * Elementos inline, block e inline-block
